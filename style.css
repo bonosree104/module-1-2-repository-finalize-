@@ -1,0 +1,33 @@
+h1{
+    color:brown;
+    text-align: center;
+}
+h2{
+    color:green;
+    text-align: center;
+}
+h3{
+    color:rgba(86, 205, 50, 0.986);
+    text-align: center;
+
+}
+#count{
+    color:seagreen;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para{
+    color:sienna;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blog{
+    border: 10px solid purple;
+    border-radius:50px;
+    height: 50%
+    width: 25%;
+    margin:1%;
+    padding: 10px;
+    display: inline-block;
+    float:left;
+}
