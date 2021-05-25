@@ -31,3 +31,9 @@ h3{
     display: inline-block;
     float:left;
 }
+footer p{
+    text-align: center;
+}
+section{
+    height: 1500px;
+}
